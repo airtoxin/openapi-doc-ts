@@ -993,6 +993,13 @@
   dependencies:
     csstype "^2.2.0"
 
+"@types/swagger-ui-react@^3.23.3":
+  version "3.23.3"
+  resolved "https://registry.yarnpkg.com/@types/swagger-ui-react/-/swagger-ui-react-3.23.3.tgz#56bcf3872d8655500e6d51d29ba3916397806fa3"
+  integrity sha512-JKWYWAliabBxMxURagpRR6RHLEZxxp2W2tf1IN7ftqye6dIxC2e4mh4eZzARPG8+2OpzKlodHIOIwueFTYWaag==
+  dependencies:
+    "@types/react" "*"
+
 abab@^2.0.0:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.4.tgz#6dfa57b417ca06d21b2478f0e638302f99c2405c"
@@ -3928,6 +3935,11 @@ onetime@^2.0.0:
   integrity sha1-BnQoIw/WdEOyeUsiu6UotoZ5YtQ=
   dependencies:
     mimic-fn "^1.0.0"
+
+openapi3-ts@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/openapi3-ts/-/openapi3-ts-1.4.0.tgz#679d5a24be0efc36f5de4fc2c4b8513663e16f65"
+  integrity sha512-8DmE2oKayvSkIR3XSZ4+pRliBsx19bSNeIzkTPswY8r4wvjX86bMxsORdqwAwMxE8PefOcSAT2auvi/0TZe9yA==
 
 opn@^5.1.0:
   version "5.5.0"
